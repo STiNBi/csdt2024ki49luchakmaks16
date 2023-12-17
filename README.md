@@ -3,7 +3,7 @@
 ### Student
 | Number |     Student    | Task | Config format|
 | ------ |     -------    | ---- | ------------ |
-|   16   |   Luchak Maks  |    alarms / XML     |
+|   16   |   Luchak Maksym  |    alarms |   XML   |
 
 ### About repository
 This repository created for course "Computer systems automated design" of Lviv Polytechnic National University
